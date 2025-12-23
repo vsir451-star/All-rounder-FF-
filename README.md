@@ -1,7 +1,4 @@
-# All-rounder-FF-
-All rounder FF
-// --- ALL ROUNDER FF MASTER SCRIPT ---
-public void onUpdate() {
+// --- ALL ROUNDER FF MASTER SCRIPT ---public void onUpdate() {
     // 1. मूवमेंट (दौड़ना)
     float moveX = getJoystickAxis("Horizontal") * 15f; 
     float moveZ = getJoystickAxis("Vertical") * 15f;
